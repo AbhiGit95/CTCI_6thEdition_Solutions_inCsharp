@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Linked_Lists
 {
-    class LinkedList
+    public class LinkedList
     {
         int _val;
         LinkedList _next;
