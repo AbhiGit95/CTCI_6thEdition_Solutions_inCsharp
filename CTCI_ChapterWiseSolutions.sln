@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTCI_ChapterWiseSolutions", "CTCI_ChapterWiseSolutions\CTCI_ChapterWiseSolutions.csproj", "{660E9816-C0AE-4AC9-A25A-82ECFFA9C7AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CTCI_ChapterWiseSolutions", "CTCI_ChapterWiseSolutions\CTCI_ChapterWiseSolutions.csproj", "{660E9816-C0AE-4AC9-A25A-82ECFFA9C7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_And_Strings", "Arrays_And_Strings\Arrays_And_Strings.csproj", "{08391E06-E3AB-4C64-A8E9-E3B688618115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_And_Strings", "Arrays_And_Strings\Arrays_And_Strings.csproj", "{08391E06-E3AB-4C64-A8E9-E3B688618115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{7AD08B92-BAB0-440F-B839-9AE07CF6604E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{7AD08B92-BAB0-440F-B839-9AE07CF6604E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks_and_Queues", "Stacks_and_Queues\Stacks_and_Queues.csproj", "{0CBFBED1-0B8D-4137-AA66-7DB52935589B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreesAndGraphs", "TreesAndGraphs\TreesAndGraphs.csproj", "{02FC2514-A1A6-4DFF-BEFC-C9E5BF8EA746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{7AD08B92-BAB0-440F-B839-9AE07CF6604E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD08B92-BAB0-440F-B839-9AE07CF6604E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD08B92-BAB0-440F-B839-9AE07CF6604E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBFBED1-0B8D-4137-AA66-7DB52935589B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBFBED1-0B8D-4137-AA66-7DB52935589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBFBED1-0B8D-4137-AA66-7DB52935589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBFBED1-0B8D-4137-AA66-7DB52935589B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FC2514-A1A6-4DFF-BEFC-C9E5BF8EA746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FC2514-A1A6-4DFF-BEFC-C9E5BF8EA746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FC2514-A1A6-4DFF-BEFC-C9E5BF8EA746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FC2514-A1A6-4DFF-BEFC-C9E5BF8EA746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
